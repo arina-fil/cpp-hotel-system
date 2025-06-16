@@ -1,0 +1,37 @@
+cmake_minimum_required(VERSION 3.10)
+project(HotelManagementSystem)
+
+# Set C++ standard to C++17
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Find PostgreSQL package via vcpkg
+find_package(PostgreSQL REQUIRED)
+
+# --- Project Sources ---
+# List all your .cpp source files here.
+set(SOURCES
+    main.cpp
+    DBManager.cpp
+    User.cpp
+    Room.cpp
+    Service.cpp
+    Booking.cpp
+    UIManager.cpp
+)
+
+# --- Create Executable ---
+# This creates the final application executable.
+add_executable(hotel_management ${SOURCES})
+
+# --- Link Libraries ---
+target_link_libraries(hotel_management PRIVATE PostgreSQL::PostgreSQL)
+
+# --- Installation ---
+# (Optional) Defines where to install the executable.
+install(TARGETS hotel_management DESTINATION bin)
+
+# --- Build Info ---
+# (Optional) Prints a message showing the configured paths.
+message(STATUS "PostgreSQL include directory: ${PostgreSQL_INCLUDE_DIRS}")
+message(STATUS "PostgreSQL libraries: ${PostgreSQL_LIBRARIES}") 

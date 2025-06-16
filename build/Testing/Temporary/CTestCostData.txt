@@ -1,0 +1,11 @@
+UserTest.ConstructorAndGetters 2 0.0068432
+UserTest.GetRoleStringConversion 2 0.0060911
+ServiceTest.ConstructorAndGetters 2 0.00690985
+RoomTest.ConstructorAndGetters 2 0.00905315
+DBManagerTest.ConstructorInitializesCorrectly 2 0.00728895
+DBManagerTest.ExecuteQueryThrowsWhenNotConnected 2 0.00670245
+DBManagerTest.ExecuteUpdateThrowsWhenNotConnected 2 0.0069481
+BookingTest.ConstructorAndGetters 2 0.00886955
+BookingTest.ToBookingStatusConversion 2 0.0074647
+BookingTest.GetStatusStringConversion 2 0.0065776
+---

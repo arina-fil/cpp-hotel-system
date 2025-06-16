@@ -1,0 +1,1 @@
+-IC:/Projects/c++_hotel -I"C:/Projects/c++_hotel/vcpkg/installed/x64-mingw-dynamic/include/postgresql/server" -isystem "C:/Projects/c++_hotel/vcpkg/installed/x64-mingw-dynamic/include"

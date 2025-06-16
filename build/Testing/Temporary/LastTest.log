@@ -1,0 +1,273 @@
+Start testing: Jun 16 10:06 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/10 Testing: UserTest.ConstructorAndGetters
+1/10 Test: UserTest.ConstructorAndGetters
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=UserTest.ConstructorAndGetters" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"UserTest.ConstructorAndGetters" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = UserTest.ConstructorAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.ConstructorAndGetters
+[       OK ] UserTest.ConstructorAndGetters (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.ConstructorAndGetters" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"UserTest.ConstructorAndGetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/10 Testing: UserTest.GetRoleStringConversion
+2/10 Test: UserTest.GetRoleStringConversion
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=UserTest.GetRoleStringConversion" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"UserTest.GetRoleStringConversion" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = UserTest.GetRoleStringConversion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from UserTest
+[ RUN      ] UserTest.GetRoleStringConversion
+[       OK ] UserTest.GetRoleStringConversion (0 ms)
+[----------] 1 test from UserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"UserTest.GetRoleStringConversion" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"UserTest.GetRoleStringConversion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/10 Testing: ServiceTest.ConstructorAndGetters
+3/10 Test: ServiceTest.ConstructorAndGetters
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=ServiceTest.ConstructorAndGetters" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"ServiceTest.ConstructorAndGetters" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = ServiceTest.ConstructorAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ServiceTest
+[ RUN      ] ServiceTest.ConstructorAndGetters
+[       OK ] ServiceTest.ConstructorAndGetters (0 ms)
+[----------] 1 test from ServiceTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ServiceTest.ConstructorAndGetters" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"ServiceTest.ConstructorAndGetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/10 Testing: RoomTest.ConstructorAndGetters
+4/10 Test: RoomTest.ConstructorAndGetters
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=RoomTest.ConstructorAndGetters" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"RoomTest.ConstructorAndGetters" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = RoomTest.ConstructorAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RoomTest
+[ RUN      ] RoomTest.ConstructorAndGetters
+[       OK ] RoomTest.ConstructorAndGetters (0 ms)
+[----------] 1 test from RoomTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"RoomTest.ConstructorAndGetters" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"RoomTest.ConstructorAndGetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/10 Testing: DBManagerTest.ConstructorInitializesCorrectly
+5/10 Test: DBManagerTest.ConstructorInitializesCorrectly
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=DBManagerTest.ConstructorInitializesCorrectly" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"DBManagerTest.ConstructorInitializesCorrectly" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = DBManagerTest.ConstructorInitializesCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DBManagerTest
+[ RUN      ] DBManagerTest.ConstructorInitializesCorrectly
+[       OK ] DBManagerTest.ConstructorInitializesCorrectly (0 ms)
+[----------] 1 test from DBManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DBManagerTest.ConstructorInitializesCorrectly" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"DBManagerTest.ConstructorInitializesCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/10 Testing: DBManagerTest.ExecuteQueryThrowsWhenNotConnected
+6/10 Test: DBManagerTest.ExecuteQueryThrowsWhenNotConnected
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=DBManagerTest.ExecuteQueryThrowsWhenNotConnected" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"DBManagerTest.ExecuteQueryThrowsWhenNotConnected" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = DBManagerTest.ExecuteQueryThrowsWhenNotConnected
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DBManagerTest
+[ RUN      ] DBManagerTest.ExecuteQueryThrowsWhenNotConnected
+[       OK ] DBManagerTest.ExecuteQueryThrowsWhenNotConnected (0 ms)
+[----------] 1 test from DBManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DBManagerTest.ExecuteQueryThrowsWhenNotConnected" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"DBManagerTest.ExecuteQueryThrowsWhenNotConnected" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/10 Testing: DBManagerTest.ExecuteUpdateThrowsWhenNotConnected
+7/10 Test: DBManagerTest.ExecuteUpdateThrowsWhenNotConnected
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=DBManagerTest.ExecuteUpdateThrowsWhenNotConnected" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"DBManagerTest.ExecuteUpdateThrowsWhenNotConnected" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = DBManagerTest.ExecuteUpdateThrowsWhenNotConnected
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DBManagerTest
+[ RUN      ] DBManagerTest.ExecuteUpdateThrowsWhenNotConnected
+[       OK ] DBManagerTest.ExecuteUpdateThrowsWhenNotConnected (0 ms)
+[----------] 1 test from DBManagerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DBManagerTest.ExecuteUpdateThrowsWhenNotConnected" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"DBManagerTest.ExecuteUpdateThrowsWhenNotConnected" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/10 Testing: BookingTest.ConstructorAndGetters
+8/10 Test: BookingTest.ConstructorAndGetters
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=BookingTest.ConstructorAndGetters" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"BookingTest.ConstructorAndGetters" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = BookingTest.ConstructorAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookingTest
+[ RUN      ] BookingTest.ConstructorAndGetters
+[       OK ] BookingTest.ConstructorAndGetters (0 ms)
+[----------] 1 test from BookingTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"BookingTest.ConstructorAndGetters" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"BookingTest.ConstructorAndGetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/10 Testing: BookingTest.ToBookingStatusConversion
+9/10 Test: BookingTest.ToBookingStatusConversion
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=BookingTest.ToBookingStatusConversion" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"BookingTest.ToBookingStatusConversion" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = BookingTest.ToBookingStatusConversion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookingTest
+[ RUN      ] BookingTest.ToBookingStatusConversion
+[       OK ] BookingTest.ToBookingStatusConversion (0 ms)
+[----------] 1 test from BookingTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BookingTest.ToBookingStatusConversion" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"BookingTest.ToBookingStatusConversion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/10 Testing: BookingTest.GetStatusStringConversion
+10/10 Test: BookingTest.GetStatusStringConversion
+Command: "C:/Projects/c++_hotel/build/all_tests.exe" "--gtest_filter=BookingTest.GetStatusStringConversion" "--gtest_also_run_disabled_tests"
+Directory: C:/Projects/c++_hotel/build
+"BookingTest.GetStatusStringConversion" start time: Jun 16 10:06 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:/Projects/c++_hotel/vcpkg/buildtrees/gtest/src/v1.17.0-0c449efaff.clean/googletest/src/gtest_main.cc
+Note: Google Test filter = BookingTest.GetStatusStringConversion
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BookingTest
+[ RUN      ] BookingTest.GetStatusStringConversion
+[       OK ] BookingTest.GetStatusStringConversion (0 ms)
+[----------] 1 test from BookingTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BookingTest.GetStatusStringConversion" end time: Jun 16 10:06 RTZ 2 (çèìà)
+"BookingTest.GetStatusStringConversion" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 16 10:06 RTZ 2 (çèìà)

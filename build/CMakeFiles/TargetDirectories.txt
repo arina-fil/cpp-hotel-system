@@ -1,0 +1,10 @@
+C:/Projects/c++_hotel/build/CMakeFiles/hotel_system_core.dir
+C:/Projects/c++_hotel/build/CMakeFiles/hotel_management.dir
+C:/Projects/c++_hotel/build/CMakeFiles/all_tests.dir
+C:/Projects/c++_hotel/build/CMakeFiles/test.dir
+C:/Projects/c++_hotel/build/CMakeFiles/edit_cache.dir
+C:/Projects/c++_hotel/build/CMakeFiles/rebuild_cache.dir
+C:/Projects/c++_hotel/build/CMakeFiles/list_install_components.dir
+C:/Projects/c++_hotel/build/CMakeFiles/install.dir
+C:/Projects/c++_hotel/build/CMakeFiles/install/local.dir
+C:/Projects/c++_hotel/build/CMakeFiles/install/strip.dir
