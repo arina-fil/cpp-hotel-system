@@ -1,6 +1,6 @@
 /**
  * @file Booking.cpp
- * @brief Этот файл содержит реализацию класса Booking.
+ * @brief Этот файл содержит реализацию класса Booking. ДАННЫЙ КОД БЫЛ ВЗЯТЬ ИЗ СТОРОННИХ ИСТОЧНИКОВ
  */
 #include "Booking.h"
 #include "DBManager.h"
